@@ -24,14 +24,14 @@ if (e.results[0].isFinal) {
   p.textContent = "";
 
   if (transcript.includes("updates")) {
-    alert("Update Version: TEST SERVER 1.4");
+    alert("Update Version: TEST SERVER 1.5 BETA");
   }
   if (transcript.includes("SRC")) {
     window.open("https://github.com/AxxlYT/Tengu-Assistant");
   }
-  if (transcript.includes("close YouTube")) {
-    window.close("https://www.youtube.com");
-  }
+  // if (transcript.includes("close YouTube")) {
+  //   window.close("https://www.youtube.com");
+  // }
   if (transcript.includes("open YouTube")) {
     window.open("https://www.youtube.com");
   }

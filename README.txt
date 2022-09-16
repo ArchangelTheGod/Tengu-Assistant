@@ -16,9 +16,16 @@ You shall:
 Edit the code at your discretion, Use in social media posts, share to others, etc
 
 You shall NOT:
-Redistribute as a monetized asset, not give credit to me, give the exact file to another person, use the assistant in illgal activity, tweak the code for bad intentions,
-claim as your own/implement copyrights, etc
+Redistribute as a monetized asset, not give credit to me, give the exact file to another person, use the assistant in illgal activity, 
+tweak the code for bad intentions, claim as your own/implement copyrights, etc
 
 --End--
+
+
+
+--Credits-- 
+Axxl, Project Founder And Head Coder
+DreadKnought, Bug tracker
+Zachary, Head Of Art Department And Design
 
 Links: null
